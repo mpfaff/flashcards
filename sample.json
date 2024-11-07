@@ -1,0 +1,13 @@
+{
+    "title": "Sample Flashcards",
+    "cards": [
+        {
+            "question": "What is A?",
+            "answer": "Answer A"
+        },
+        {
+            "question": "What is B?",
+            "answer": "Answer B"
+        }
+    ]
+}
